@@ -2,8 +2,8 @@
  * Module dependencies
  */
 
-var $ = require('jquery'),
-    Emitter = require('emitter');
+var $ = require('component-jquery'),
+    Emitter = require('component-emitter');
 
 /**
  * Expose `List`.

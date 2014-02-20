@@ -1,0 +1,14 @@
+{
+  "name": "matthewmueller-list",
+  "description": "Generic list component",
+  "version": "0.0.2",
+  "keywords": [],
+  "main": "list.js",
+  "styles": [
+    "list.css"
+  ],
+  "dependencies": {
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  }
+}
